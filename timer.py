@@ -25,6 +25,7 @@ while 1:
     countdown(60)
     c = input("Could you remain focused in last session? (y/n) ")
     if c=='Y' or c=='y':
+        print("Congrats you did well in last session so I am taking you to next level time slab...")
         k=k+1
     else:
         print("Decreasing your time slab!!")
