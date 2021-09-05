@@ -1,8 +1,8 @@
 # Readers-Timer
 This one is for all the readers out there. This is a challenge #TheReadersChallange. Taking this challenge you will experience a great reading experience.
 
-#Lisitng out some FAQs
-1. What is this?
+# Lisitng out some FAQs
+1. What is this?\n
 -> This is a python program which gives you a increasing target time in which you should be reading. You even get a break after your target time is completed.
 
 2. How does it know whether I am reading or not? 
