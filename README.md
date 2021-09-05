@@ -1,5 +1,5 @@
 # Readers-Timer
-This one is for all the readers out there. This is a challenge #TheReadersChallange. Taking this challenge you will experience a great reading experience.
+This one is for all the readers out there. This is a challenge #TheReadersChallange. Taking this challenge you will experience an improved reading experience. The timer starts your reading session with an initial time and gradually it increases the session length. You also get small breaks in between.
 
 ## Requirements
 1. Python 3.x
