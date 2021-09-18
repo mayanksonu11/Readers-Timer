@@ -4,6 +4,7 @@ This one is for all the readers out there. This is a challenge #TheReadersChalla
 ## Requirements
 1. Python 3.x
 2. playsound (pip install playsound)
+3. tkinter library 
 
 ## Lisitng out some FAQs
 ### 1. What is this?
